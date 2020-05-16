@@ -1,16 +1,31 @@
-# ecom_app
+# SocioShare
 
-A new Flutter application.
+It is a basic E-commerce app just like amazon or flipkart with basic functionalities.
 
-## Getting Started
+## Motivation
+It is a personal project developed by me in VSCode using Flutter and Dart. It is basically developed for learning new skill in FLutter by having a overview on the language and implementing the experience.
 
-This project is a starting point for a Flutter application.
+## Tech/framework used
 
-A few resources to get you started if this is your first Flutter project:
+<b>Built with</b>
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [VSCode](https://code.visualstudio.com/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/Screenshot_1589275665.png" width="350" >
+<img src="screenshots/Screenshot_1589275972.png" width="350" >
+<img src="screenshots/Screenshot_1589275792.png" width="350" >
+<img src="screenshots/Screenshot_1589275763.png" width="350" >
+<img src="screenshots/Screenshot_1589275926.png" width="350" >
+<img src="screenshots/Screenshot_1589275810.png" width="350" >
+<img src="screenshots/Screenshot_1589275820.png" width="350" >
+<img src="screenshots/Screenshot_1589275874.png" width="350" >
+
+
+## Contribute
+I'm welcome to any ideas to contribute.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
