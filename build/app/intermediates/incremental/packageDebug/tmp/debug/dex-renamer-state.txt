@@ -1,0 +1,4 @@
+#Sat May 16 12:35:27 IST 2020
+base.0=F\:\\Flutter Projects\\ecom_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
