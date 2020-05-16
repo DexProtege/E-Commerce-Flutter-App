@@ -1,4 +1,4 @@
-# SocioShare
+# E-Com App
 
 It is a basic E-commerce app just like amazon or flipkart with basic functionalities.
 
