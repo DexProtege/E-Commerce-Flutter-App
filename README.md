@@ -14,12 +14,12 @@ It is a personal project developed by me in VSCode using Flutter and Dart. It is
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_1589613006.png" width="350" >
-<img src="screenshots/Screenshot_1589613015.png" width="350" >
-<img src="screenshots/Screenshot_1589613030.png" width="350" >
-<img src="screenshots/Screenshot_1589613038.png" width="350" >
-<img src="screenshots/Screenshot_1589613045.png" width="350" >
-<img src="screenshots/Screenshot_1589613049.png" width="350" >
+<p><img src="screenshots/Screenshot_1589613006.png" width="350" >&emsp;&emsp;
+<img src="screenshots/Screenshot_1589613015.png" width="350" ></p>
+<p><img src="screenshots/Screenshot_1589613030.png" width="350" >&emsp;&emsp;
+<img src="screenshots/Screenshot_1589613038.png" width="350" ></p>
+<p><img src="screenshots/Screenshot_1589613045.png" width="350" >&emsp;&emsp;
+<img src="screenshots/Screenshot_1589613049.png" width="350" ></p>
 
 ## Contribute
 I'm welcome to any ideas to contribute.
