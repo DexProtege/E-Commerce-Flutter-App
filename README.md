@@ -21,8 +21,5 @@ It is a personal project developed by me in VSCode using Flutter and Dart. It is
 <p><img src="screenshots/Screenshot_1589613045.png" width="350" >&emsp;&emsp;
 <img src="screenshots/Screenshot_1589613049.png" width="350" ></p>
 
-## Contribute
-I'm welcome to any ideas to contribute.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
